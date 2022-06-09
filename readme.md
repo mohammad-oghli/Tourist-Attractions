@@ -34,7 +34,7 @@ Locations fall into 3 main categories:
 * Places that have been visited.
 
 Each Location class has three attributes:
-* Main 
+* Name 
 * Description
 * Category
 
