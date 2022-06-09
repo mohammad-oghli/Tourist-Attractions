@@ -41,7 +41,7 @@ Each Location class has three attributes:
 The main functionalities of this app:
 * Show list of each location's category.
 * Add new Location according to the 3 categories.
-* Move location from one category to the next category.(Recommedned -> Places to Go -> Visited)
+* Move location from one category to the next category (Recommedned -> Places to Go -> Visited)
 * Remove location from category.
 
 **Made with ❤ by Mohamad Oghli**
